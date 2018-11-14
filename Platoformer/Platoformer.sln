@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Platoformer", "Platoformer\Platoformer.vcxproj", "{404D2772-3997-4D1E-98AD-0BF5921C3999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404D2772-3997-4D1E-98AD-0BF5921C3999}.Debug|x64.ActiveCfg = Debug|x64
+		{404D2772-3997-4D1E-98AD-0BF5921C3999}.Debug|x64.Build.0 = Debug|x64
+		{404D2772-3997-4D1E-98AD-0BF5921C3999}.Debug|x86.ActiveCfg = Debug|Win32
+		{404D2772-3997-4D1E-98AD-0BF5921C3999}.Debug|x86.Build.0 = Debug|Win32
+		{404D2772-3997-4D1E-98AD-0BF5921C3999}.Release|x64.ActiveCfg = Release|x64
+		{404D2772-3997-4D1E-98AD-0BF5921C3999}.Release|x64.Build.0 = Release|x64
+		{404D2772-3997-4D1E-98AD-0BF5921C3999}.Release|x86.ActiveCfg = Release|Win32
+		{404D2772-3997-4D1E-98AD-0BF5921C3999}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1008EFAA-D4AE-4141-BAB5-B81EA60AB205}
+	EndGlobalSection
+EndGlobal
